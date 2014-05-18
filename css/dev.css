@@ -50,10 +50,9 @@ div.cl-md-6.logo img {
 
 #logo {
    color : #66B8E8;
-   font-size: 250%;
-   /*padding: 16px 0px 0px 21px;*/
-   padding-top: 2.5%;
-   padding-left: 2.5%;
+   font-size: 38px;
+   padding-top: 25px;
+   padding-left: 35px;
    display: block;
    float: left;
 }
@@ -63,7 +62,7 @@ div.cl-md-6.logo img {
 }
 
 #trackr {
-   margin-top: 20px;
+   margin-top: 75px;
    padding-left: 39px;
    font-size: 33px;
    display: block;
@@ -72,17 +71,17 @@ div.cl-md-6.logo img {
 #loc-markr {
    background-color: #f5b333;
    color: #231f20;
-   padding: 2.75% 7.5%;
+   padding: 8px 23px;
 }
 
 #track {
    background-color: #f5db33;
    color: #231f20;
-   padding: 1px 20px 4px 71px;
+   padding: 1px 70px 3px 20px;
 }
 
 #latest-news {
-   margin-top: 10px;
+   margin-top: 50px;
    padding-left: 40px;
    font-size: 44px;
 }
@@ -90,19 +89,16 @@ div.cl-md-6.logo img {
 #hist {
    background-color: #f5b333;
    color: #231f20;
-   padding: 17px 18px 11px;
-   font-size: 33px;
+   padding: 7px 18px 10px;
+   font-size: 32px;
 }
 
 #latest {
    background-color: #f5db33;
    color: #231f20;
-   padding: 12px 52px 7px 21px;
+   padding: 1px 50px 6px 20px;
    font-size: 31px;
    margin-top: 0px !important;
-   /* width: 237px; */
-   /* display: block; */
-   /* float: left; */
 }
 
 a:hover, a:visited {
