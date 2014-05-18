@@ -50,10 +50,9 @@ div.cl-md-6.logo img {
 
 #logo {
    color : #66B8E8;
-   font-size: 250%;
-   /*padding: 16px 0px 0px 21px;*/
-   padding-top: 2.5%;
-   padding-left: 2.5%;
+   font-size: 38px;
+   padding-top: 25px;
+   padding-left: 35px;
    display: block;
    float: left;
 }
