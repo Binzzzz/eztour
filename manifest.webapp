@@ -1,0 +1,19 @@
+{
+  "name": "EzTour",
+  "description": "Tourist App that can show live ratings of tourist spots in India",
+  "version": "1.0",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "Binoy Balu",
+    "url": "https://github.com/binzzzz"
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "icons": {
+    "16": "/img/icons/icon16.png",
+    "32": "/img/icons/icon32.png",
+    "64": "/img/icons/icon64.png",
+    "128": "/img/icons/icon128.png"
+  }
+}
